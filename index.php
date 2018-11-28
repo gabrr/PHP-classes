@@ -8,11 +8,15 @@
 	</head>
 
 	<body>
-        	<div class="container">
-          	   <h1>Entry page</h1>
-        	</div>
+        <div class="container">
+          <h2>Entry page</h2>
+        </div>
         
         <style>
+            body, html{
+                margin: 0;
+                padding: 0;
+            }
           .container{
             width: 100%;
             height: 100vh;
@@ -27,5 +31,9 @@
           transform: translate(-50%, -50%);
         }
         </style>
-	</body>
+        <?php
+        
+        ?>
+    </body>    
+    
 </html>
