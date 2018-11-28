@@ -8,9 +8,9 @@
 	</head>
 
 	<body>
-        <div class="container">
-          <h1>Entry page</h1>
-        </div>
+        	<div class="container">
+          	   <h1>Entry page</h1>
+        	</div>
         
         <style>
           .container{
@@ -27,5 +27,5 @@
           transform: translate(-50%, -50%);
         }
         </style>
-    
+	</body>
 </html>
